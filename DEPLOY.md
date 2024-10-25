@@ -5,7 +5,7 @@
     ```js
     // @file vite.config.js
     export default defineConfig({
-        base: '/devops-s03-deploy/', // nom du dépôt
+        base: '/devops-s03-bilal/', // nom du dépôt
         plugins: [svelte()],
         // ...
     })
